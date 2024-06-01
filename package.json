@@ -35,7 +35,7 @@
     "whatwg"
   ],
   "author": "David Frank",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/node-fetch/node-fetch/issues"
   },
